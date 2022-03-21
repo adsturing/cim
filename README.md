@@ -9,6 +9,14 @@ Our released dataset *CandiCTR-Pub* could be found at [JD JingPan](http://box.jd
 In the data files, each row corresponds to a search session. Each column in the data represents userID, queryID, label list, target items and request item queue. Each item is consist of itemID, categoryID, brandID, vendorID and priceID. 
 All data have been desensitized.
 
+
+## Requirements
+
+* python 3.6.13
+* tensorflow 1.15.0
+* scikit-learn 0.24.2
+
+
 ## Quick start
 
 Create a new `data` folder and put the downloaded dataset into the folder. Then,
