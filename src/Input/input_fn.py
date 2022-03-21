@@ -19,7 +19,6 @@ import tensorflow as tf
 
 tf.set_random_seed(12345)
 np.random.seed(12345)
-from tqdm import tqdm
 from collections import defaultdict
 
 import sys
