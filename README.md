@@ -1,6 +1,6 @@
 # Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads
 
-This repo is the official implementation for the WWW 2022 paper: *Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads*.
+This repo is the official implementation for the [WWW 2022 paper: *Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads*](https://dl.acm.org/doi/10.1145/3485447.3511953).
 
 ## Data format
 
